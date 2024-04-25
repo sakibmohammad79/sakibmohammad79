@@ -7,13 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibmohammad79&label=Profile%20views&color=0e75b6&style=flat" alt="sakibmohammad79" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🧑‍💻 I’m currently studying Computer Science & Engineering department at BGC Trust University Bangladesh.
 
-- My Project: [Summer Camp Sports Management system](https://wolves-sports.web.app/)
+- 📚 I’m currently learning **Full Stack Web Development**
 
-- My Project: [Toy Management System](https://toy-marketplace-ass11.web.app/)
+- 🛍 My Project: [Summer Camp Sports Management system](https://wolves-sports.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://md-sakib-portfolio.netlify.app/](https://md-sakib-portfolio.netlify.app/)
+- 🛍 My Project: [Toy Management System](https://toy-marketplace-ass11.web.app/)
+
+- 🗃 All of my projects are available at [https://md-sakib-portfolio.netlify.app/](https://md-sakib-portfolio.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
