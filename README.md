@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibmohammad79&label=Profile%20views&color=0e75b6&style=flat" alt="sakibmohammad79" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibmohammad79" alt="sakibmohammad79" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - My Project: [Summer Camp Sports Management system](https://wolves-sports.web.app/)
 
-- My Project: [https://toy-marketplace-ass11.web.app/](https://toy-marketplace-ass11.web.app/)
+- My Project: [Toy Management System](https://toy-marketplace-ass11.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://md-sakib-portfolio.netlify.app/](https://md-sakib-portfolio.netlify.app/)
 
@@ -22,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/152kvFC0N2T4HUbQ5zS0_RRYXnUodSdrD/view?usp=drive_link](https://drive.google.com/file/d/152kvFC0N2T4HUbQ5zS0_RRYXnUodSdrD/view?usp=drive_link)
 
-- ⚡ Fun fact **I am funny!**
+- ⚡ Fun fact **I am funny!😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
