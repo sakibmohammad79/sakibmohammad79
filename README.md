@@ -1,4 +1,4 @@
-![logo](https://github.com/sakibmohammad79/sakibmohammad79/blob/main/banner.png)
+![logo](https://github.com/sakibmohammad79/sakibmohammad79/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Md. Sakib</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
