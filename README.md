@@ -17,8 +17,7 @@
 
 - 🛍 My Project: [Toy Management System](https://toy-marketplace-ass11.web.app/)
 
-- 🗃 All of my projects are available at [My Portfolio]([https://md-sakib-portfolio.netlify.app/](https://my-portfolio-client-xi.vercel.app/))
-
+- 🗃 All of my projects are available at [Toy Management System](https://my-portfolio-client-xi.vercel.app/)
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mohammadsakib7679@gmail.com**
